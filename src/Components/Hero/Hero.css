@@ -7,9 +7,10 @@
 .hero img{
     margin-top: 30px;
     width: 320px;          /* control size */
-    height: 400px;         /* same as width for perfect circle */
-    border-radius: 90%;    /* 🔴 makes it circular */
+    height: 320px;         /* same as width for perfect circle */
+    border-radius: 50%;    /* 🔴 makes it circular */
     object-fit: cover; 
+    object-position: 50% 30%;
 }
 .hero h1{
     margin-top: 0px;
