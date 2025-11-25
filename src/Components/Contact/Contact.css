@@ -46,7 +46,7 @@
 .contatct-details{
     display: flex;
     flex-direction: column;
-    gap: 30pz;
+    gap: 30px;
     columns: #D8D8D8;
     font-size: 22px;
 }
