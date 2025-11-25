@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-import about_profile from '../../assets/about_profile.jpeg'
+import about_profile from '../../assets/about_profile.png'
 export const About = () => {
 
   return (
